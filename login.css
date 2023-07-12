@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f6f1e9;
+}
+
+.login {
+  padding: 5rem 0;
+}
+
+.reminder {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.reminder p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.reminder form {
+  display: flex;
+  align-items: center;
+}
+
+.reminder .form-group {
+  margin-right: 1rem;
+}
+
+.reminder .form-control {
+  width: 100%;
+}
+
+.btn-green-black {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 50px;
+  background-color: #443735;
+  color: #fff;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-green-black:hover {
+  background-color: #C8BCAB;
+}
+
+.btn-green-black:focus {
+  color: #fff; /* Changed text color to white */
+}
+
+.bg-black-bean {
+  background-color: #443735;
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f6f1e9;
+}
+
+.artists {
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.artists h2 {
+  margin-bottom: 2rem;
+}
+
+.artists .artist {
+  margin-bottom: 2rem;
+}
+
+.artists .artist img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.artists .artist h4 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.artists .artist p {
+  color: #6c757d;
+}
+
+.bg-brown {
+  background-color: #604c43;
+}
+
+footer {
+  background-color: #604c43;
+}
+
+footer p {
+  margin: 0;
+}
